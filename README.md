@@ -1,3 +1,3 @@
 # HackerrankC
 
-HackerRank C Examples
+HackerRank C Examples Solutions
