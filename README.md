@@ -1,3 +1,4 @@
-# HackerrankC
+# C Examples
 
-HackerRank C Examples Solutions
+\cdot HackerRank C Examples Solutions
+\cdot C Examples from another platforms
